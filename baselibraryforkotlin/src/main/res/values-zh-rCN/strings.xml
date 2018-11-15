@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BaseLibraryForKotlin</string>
+
+    <string name="welcome_picture">欢迎页的图片</string>
+    <string name="file_not_found_or_use_chinese">错误的文件路径或文件使用了不可识别的字符</string>
+    <string name="title_left_image">标题栏左边的图片</string>
+    <string name="exit_with_error">出现未知异常，程序即将退出</string>
+</resources>

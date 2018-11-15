@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+
+    <!--suppress AndroidElementNotAllowed -->
+    <root-path
+        name="root"
+        path="" />
+
+    <!--
+    &lt;!&ndash; Context.getFilesDir()&ndash;&gt;
+    <files-path
+        name="files"
+        path="files" />
+
+    &lt;!&ndash;getCacheDir()&ndash;&gt;
+    <cache-path
+        name="cache"
+        path="cache" />
+
+    &lt;!&ndash; Environment.getExternalStorageDirectory()&ndash;&gt;
+    <external-path
+        name="external"
+        path="external" />
+
+    <external-files-path
+        name="external_file_path"
+        path="external-files-path" />
+
+    <external-cache-path
+        name="external_cache_path"
+        path="external-cache-path" />-->
+
+</paths>

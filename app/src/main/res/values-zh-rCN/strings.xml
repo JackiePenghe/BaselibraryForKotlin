@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BaseLibrary</string>
+    <string name="base_appcompat_activity">BaseAppcompatActivity</string>
+    <string name="base_drawer_activity">BaseDrawerActivity</string>
+    <string name="base_fragment">BaseFragment</string>
+    <string name="base_popup_window">BasePopupWindow</string>
+    <string name="show_popup_window">Show Popup Window</string>
+    <string name="all_purpose_adapter">AllPurposeAdapter</string>
+    <string name="press_home_btn_test">按下Home键试试是否可被检测到</string>
+    <string name="home_watcher">Home键监听(仅监听，不拦截)</string>
+    <string name="get_fragment_visibility">获取Fragment的可见状态</string>
+    <string name="toast_test">吐司测试</string>
+    <string name="long_time">长时间的吐司</string>
+    <string name="short_time">短时间的吐司</string>
+    <string name="time_100">100 ms</string>
+    <string name="time_500">500 ms</string>
+    <string name="time_500_with_hide">500 ms 并隐藏上一次Toast</string>
+    <string name="time_100_with_hide">100 ms 并隐藏上一次Toast</string>
+    <string name="short_time_with_hide">短时间 并隐藏上一次Toast</string>
+    <string name="long_time_with_hide">长时间 并隐藏上一次Toast</string>
+    <string name="open_toast_reuse">开启重用</string>
+    <string name="close_toast_reuse">关闭重用</string>
+    <string name="open_hide_when_next">显示下一条之前隐藏上一条</string>
+    <string name="close_hide_when_next">显示下一条之前不隐藏上一条</string>
+</resources>
