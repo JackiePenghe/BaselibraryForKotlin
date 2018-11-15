@@ -91,7 +91,7 @@ abstract class BasePurposeAdapter<T>(
      * @param parent      The parent that this view will eventually be attached to
      * @return A View corresponding to the data at the specified position.
      */
-    override fun getView(position: Int, convertView: View, parent: ViewGroup): View? {
+    override fun getView(position: Int, convertView: View?, parent: ViewGroup): View? {
         if (mContext == null) {
             mContext = parent.context
         }
